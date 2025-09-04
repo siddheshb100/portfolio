@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react";
 import path from "path";
 
 export default defineConfig({
-  base: '/siddhesb100.github.io/', // Replace 'portfolio' with your actual repo name
+  base: '/portfolio/', // Replace 'portfolio' with your actual repo name
   plugins: [react()],
   resolve: {
     alias: {
