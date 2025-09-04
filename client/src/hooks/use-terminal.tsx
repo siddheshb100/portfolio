@@ -520,10 +520,10 @@ Try typing <span class="text-terminal-accent">'help'</span> to see available com
 Welcome to the terminal.
 </div>
 <div class="text-terminal-text mb-2">
-    Type <span class="text-terminal-accent font-bold">'help'</span> to see available commands.
+Type <span class="text-terminal-accent font-bold">'help'</span> to see available commands.
 </div>
 <div class="text-terminal-text mb-4">
-    Use <span class="text-terminal-accent">↑ ↓</span> arrows for command history.
+Use <span class="text-terminal-accent">↑ ↓</span> arrows for command history.
 </div>`);
     };
     
