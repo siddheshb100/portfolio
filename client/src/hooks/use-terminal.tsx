@@ -517,7 +517,7 @@ Try typing <span class="text-terminal-accent">'help'</span> to see available com
  ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 </div>
 <div class="text-terminal-text mb-2">
-    <span class="text-terminal-accent">siddhesh@portfolio:~$</span> Welcome to the terminal.
+Welcome to the terminal.
 </div>
 <div class="text-terminal-text mb-2">
     Type <span class="text-terminal-accent font-bold">'help'</span> to see available commands.
